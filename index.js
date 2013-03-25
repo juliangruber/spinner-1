@@ -1,10 +1,9 @@
-
 /**
  * Module dependencies.
  */
 
 var autoscale = require('autoscale-canvas');
-var raf = require('raf');
+var raf = require('raf-component');
 
 /**
  * Expose `Spinner`.
